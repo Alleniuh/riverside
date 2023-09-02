@@ -56,7 +56,6 @@ body {
 }
 .navbar button:hover {
     transform: scale(1.1); 
-
 }
 
 /* Next page */
@@ -175,6 +174,10 @@ footer {
     .navbar button {
         width: 70px;
         font-size: 11px;
+    }
+    .navbar p {
+        font-size: 7px;
+        font-weight: bolder;
     }
     .info {
         padding: 3% 10%;
